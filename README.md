@@ -1,4 +1,4 @@
-Hi, I’m Meric Kerem Yalcin. I'm interested in backend development. I'm currently learning javascript. You can contact with me anytime from kerem.yalcin@metu.edu.tr address. 
+Hi, I’m Meric Kerem Yalcin. I'm interested in backend development. Learning random stuff. Mail: mericekerem@gmail.com
 
 
 <!---
